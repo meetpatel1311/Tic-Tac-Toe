@@ -36,3 +36,9 @@ Tic-Tac-Toe made using Tkinter in python. This game is for 2 players. This versi
 
 > ![](https://github.com/meetpatel1311/Tic-Tac-Toe/blob/main/images/Tie_front.png)
 ![](https://github.com/meetpatel1311/Tic-Tac-Toe/blob/main/images/tie_message.png)
+
+
+>## Required Python Packages
+
+1) Tkinter
+2) Random
